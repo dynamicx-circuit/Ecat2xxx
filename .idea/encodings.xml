@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CM7/Core/Src/fdcan.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/motor_can/function/can_communication.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/motor_can/function/motor.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/motor_can/motor_function/motor.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/motor_can/motor_function/motor_control.c" charset="GBK" />
+  </component>
+</project>

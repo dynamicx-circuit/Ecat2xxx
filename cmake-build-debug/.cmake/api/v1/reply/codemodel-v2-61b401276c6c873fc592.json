@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "h7-single-cmake",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "h7-single-cmake_ALL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h7-single-cmake_ALL-f8c4043993caaa95d58b.json",
+					"name" : "h7-single-cmake_ALL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "h7-single-cmake_CM4.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h7-single-cmake_CM4.elf-5ea200593e6c57f2f10e.json",
+					"name" : "h7-single-cmake_CM4.elf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "h7-single-cmake_CM7.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h7-single-cmake_CM7.elf-dd1c1e72fd45437ab313.json",
+					"name" : "h7-single-cmake_CM7.elf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "h7-single-cmake_FLASH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h7-single-cmake_FLASH-5b9bf1e6e3ea04452568.json",
+					"name" : "h7-single-cmake_FLASH",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/86136/Desktop/Ecat2x/cmake-build-debug",
+		"source" : "C:/Users/86136/Desktop/Ecat2x"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
